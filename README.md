@@ -39,8 +39,8 @@ VERSION
 #### 0.0.1
 * Initial commit
 
-[travis-image]: https://travis-ci.org/nhz-io/module.svg
-[travis-url]: https://travis-ci.org/nhz-io/module
+[travis-image]: https://travis-ci.org/NHZio/module.svg
+[travis-url]: https://travis-ci.org/NHZio/module
 
 [npm-image]: https://nodei.co/npm/module
 [npm-url]: https://nodei.co/npm/module
